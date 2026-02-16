@@ -1,6 +1,6 @@
 # Staff Skills Portal
 
-A comprehensive procedural PHP web application for managing staff information, skills, expertise, and project portfolios. Built with vanilla JavaScript, Bootstrap 5, and MySQL, running on XAMPP with PDO for secure database access.
+A comprehensive procedural PHP web application for managing staff information, skills, expertise, and project portfolios. Built with vanilla JavaScript, Bootstrap 5, and MySQL, running on XAMPP with PDO for secure database access. The system allows organizations to manage staff profiles, skills, software expertise, languages, projects, and organizational data through structured role-based access control (RBAC).
 
 ## Table of Contents
 
@@ -517,3 +517,4 @@ For issues or questions:
 **PHP Version**: 8.0+  
 **MySQL Version**: 5.7+  
 **Bootstrap Version**: 5.3.0
+
